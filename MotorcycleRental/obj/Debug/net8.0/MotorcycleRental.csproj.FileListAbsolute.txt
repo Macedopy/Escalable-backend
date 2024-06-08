@@ -1,0 +1,7 @@
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.csproj.AssemblyReference.cache
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.AssemblyInfoInputs.cache
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.AssemblyInfo.cs
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.csproj.CoreCompileInputs.cache
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.MvcApplicationPartsAssemblyInfo.cs
+C:\Programação\Projects\Desafio Mottu\MotorcycleRental\obj\Debug\net8.0\MotorcycleRental.MvcApplicationPartsAssemblyInfo.cache
