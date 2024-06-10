@@ -27,8 +27,8 @@ namespace DeliveryDrivers.Infrastructure
 
         public DriverimageS3()
         {
-            AwsKeyID = "AKIAW3MEFVAPWS57A6MQ";
-            AwsSecretKey = "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";
+            AwsKeyID = " ";
+            AwsSecretKey = " ";
             AwsCredentials = new BasicAWSCredentials(AwsKeyID, AwsSecretKey);
             var config = new AmazonS3Config
             {
